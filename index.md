@@ -2,122 +2,62 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Daniel Ramirez
+*San Diego, CA*
 
-[Link to another page](./another-page.html).
+[LinkedIn](linkedin.com/in/daniel-ramirez-b803091b6) · [GitHub](https://github.com/dannyr742) · [Email me](mailto:dannyr742@gmail.com)
 
-There should be whitespace between paragraphs.
+## Summary
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Data-driven analyst with a background in Mathematics and Computer Science and hands on experience supporting supply chain operations through analytics, reporting automation, and KPI tracking. Skilled in SQL, Python, and Excel-based modeling to analyze vendor performance, procurement costs, and operational efficiency. Incoming MS student in Supply Chain analytics seeking to apply data analysis and optimization techniques to improve logistics, forecasting, and supply chain performance.
 
-# Header 1
+## Professional Experience
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Data & Operations - San Diego Seal
 
-## Header 2
+*February 2025-Present*
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- Automated open order reports in Excel, reducing manual processing time by **60%**.
+- Built KPI dashboards tracking revenue, profit, and conversion rates against year-to-date benchmarks for **5+ key client accounts**.
+- Analyzed vendor pricing and lead times to support procurement decisions and profitable pricing.
+- Identified bottlenecks in order processing, contributing to a **20% reduction** in processing time.
 
-### Header 3
+### Sales Specialist - Apple
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+*August 2024-January 2025*
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- Delivered tailored product recommendations and contributed to a **15% increase** in customer satisfaction scores.
+- Analyzed sales data and visualizations, contributing to a **10% improvement** in product placement efficiency.
 
-#### Header 4
+## Education
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### M.S. Supply Chain Analytics - California State University San Marcos
 
-##### Header 5
+*August 2026-August 2027*
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### B.S. Mathematics and Computer Science - UC San Diego
 
-###### Header 6
+*September 2020-June 2024* · Minor in Cognitive Science · CASP Scholar
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## Projects
 
-### There's a horizontal rule below this.
+### Renewable Energy Investment & Production Analysis
 
-* * *
+Used `Python` and `SQL` to analyze global renewable energy production and investment patterns. Built regression models and visualizations to examine relationships between research and development investment and energy output.
 
-### Here is an unordered list:
+### Cyclistic Bike-Share Capstone Project
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Analyzed **5.8 million** bike-share trips to identify rider trends and membership growth opportunities, with a goal of increasing membership rates by **10%**.
 
-### And an ordered list:
+## Skills
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+- **Programming and analysis:** SQL, Python (`Pandas`, `Numpy`, `Matplotlib`), R
+- **Visualization and reporting:** Tableau, Power BI, Excel dashboards
+- **Excel:** Pivot tables, XLOOKUP, conditional formatting, MACROS
+- **Operations:** KPI tracking, vendor pricing and lead-time analysis, procurement support, process improvement
+- **Data methods:** Data Cleaning, data wrangling, trend analysis
 
-### And a nested list:
+## Certifications
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+1. Google Data Analytics Certificate (2025)
+2. Accenture Data Analytics Simulation - Forage (2025)
