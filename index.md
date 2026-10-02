@@ -2,8 +2,7 @@
 layout: default
 ---
 
-# Daniel Ramirez
-*San Diego, CA*
+# Professional Portfolio
 
 [LinkedIn](linkedin.com/in/daniel-ramirez-b803091b6) · [GitHub](https://github.com/dannyr742) · [Email me](mailto:dannyr742@gmail.com)
 
