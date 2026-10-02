@@ -1,7 +1,7 @@
 title: Daniel Ramirez
 logo: /assets/img/logo.png
 description: Supply chain analytics graduate student with experience in distribution, reporting, and process improvement. Explore my projects, skills, and resume.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
