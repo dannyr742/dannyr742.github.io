@@ -2,5 +2,5 @@
 
 set -e
 
-gem install bundler --no document || true
+gem install bundler --no-document || true
 bundle install
