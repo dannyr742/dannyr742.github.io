@@ -4,7 +4,7 @@ layout: default
 
 # Professional Portfolio
 
-[LinkedIn](linkedin.com/in/daniel-ramirez-b803091b6) · [GitHub](https://github.com/dannyr742) · [Email me](mailto:dannyr742@gmail.com)
+[LinkedIn](https://linkedin.com/in/daniel-ramirez-b803091b6) · [GitHub](https://github.com/dannyr742) · [Email me](mailto:dannyr742@gmail.com)
 
 ## Summary
 
