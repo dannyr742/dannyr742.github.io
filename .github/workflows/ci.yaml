@@ -15,4 +15,4 @@ jobs:
       - name: build
         run: bash script/bootstrap
       - name: test
-        run: bashscript/cibuild
+        run: bash script/cibuild
