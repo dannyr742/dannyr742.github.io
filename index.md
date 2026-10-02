@@ -4,8 +4,6 @@ layout: default
 
 # Professional Portfolio
 
-[LinkedIn](https://linkedin.com/in/daniel-ramirez-b803091b6) · [GitHub](https://github.com/dannyr742) · [Email me](mailto:dannyr742@gmail.com)
-
 ## Summary
 
 Data-driven analyst with a background in Mathematics and Computer Science and hands on experience supporting supply chain operations through analytics, reporting automation, and KPI tracking. Skilled in SQL, Python, and Excel-based modeling to analyze vendor performance, procurement costs, and operational efficiency. Incoming MS student in Supply Chain analytics seeking to apply data analysis and optimization techniques to improve logistics, forecasting, and supply chain performance.
