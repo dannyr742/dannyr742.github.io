@@ -120,7 +120,7 @@ These changes turned the sample homepage into a professional portfolio.
 
 ### 6.1 Preview the Markdown
 
-When editing in Visual Studio Code, open `index.md` and select **Open Preview to the Side**.
+When editing in Visual Studio Code, open `index.md` and select **Open Preview**.
 
 This displays the Markdown source and its preview next to each other. Check that headings, lists, and text formatting appear correctly.
 
