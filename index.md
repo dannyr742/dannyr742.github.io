@@ -58,3 +58,9 @@ Analyzed **5.8 million** bike-share trips to identify rider trends and membershi
 
 1. Google Data Analytics Certificate (2025)
 2. Accenture Data Analytics Simulation - Forage (2025)
+
+### Building My E-Portfolio
+
+A step-by-step guide to creating and customizing my portfolio using GitHub Pages, the Minimal theme, and Markdown.
+
+[View the guide](./portfolio-guide/)
